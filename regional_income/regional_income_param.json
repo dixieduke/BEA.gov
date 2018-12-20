@@ -1,0 +1,54 @@
+{
+  "BEAAPI": {
+    "Request": {
+      "RequestParam": [
+        {
+          "ParameterName": "USERID",
+          "ParameterValue": "F414B54D-68CF-452A-BFD9-7B7BDA23AE7C"
+        },
+        {
+          "ParameterName": "METHOD",
+          "ParameterValue": "GETPARAMETERLIST"
+        },
+        {
+          "ParameterName": "DATASETNAME",
+          "ParameterValue": "REGIONALINCOME"
+        }
+      ]
+    },
+    "Results": {
+      "Parameter": [
+        {
+          "MultipleAcceptedFlag": "1",
+          "ParameterDataType": "string",
+          "ParameterDescription": "Comma-delimited list of 5-character geographic codes; COUNTY for all counties, STATE for all states, MSA for all MSAs, MIC for all Micropolitan Areas, PORT for all state metro/nonmetro portions, DIV for all Metropolitan Divisions, CSA for all Combined Statistical Areas, state post office abbreviation for all counties in one state (e.g. NY)",
+          "ParameterIsRequiredFlag": "1",
+          "ParameterName": "GeoFips"
+        },
+        {
+          "MultipleAcceptedFlag": "0",
+          "ParameterDataType": "integer",
+          "ParameterDescription": "Line code for a statistic or industry",
+          "ParameterIsRequiredFlag": "1",
+          "ParameterName": "LineCode"
+        },
+        {
+          "MultipleAcceptedFlag": "0",
+          "ParameterDataType": "string",
+          "ParameterDefaultValue": "",
+          "ParameterDescription": "Income or employment table to retrieve",
+          "ParameterIsRequiredFlag": "1",
+          "ParameterName": "TableName"
+        },
+        {
+          "MultipleAcceptedFlag": "1",
+          "ParameterDataType": "string",
+          "ParameterDefaultValue": "LAST5",
+          "ParameterDescription": "Comma-delimted list of years; LAST5 for latest 5 years; LAST10 for latest 10 years; ALL for all years",
+          "ParameterIsRequiredFlag": "0",
+          "ParameterName": "Year"
+        }
+      ]
+    }
+  }
+}
