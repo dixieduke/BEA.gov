@@ -1,0 +1,253 @@
+{
+  "BEAAPI": {
+    "Request": {
+      "RequestParam": [
+        {
+          "ParameterName": "GEOFIPS",
+          "ParameterValue": "45000"
+        },
+        {
+          "ParameterName": "YEAR",
+          "ParameterValue": "ALL"
+        },
+        {
+          "ParameterName": "LINECODE",
+          "ParameterValue": "3"
+        },
+        {
+          "ParameterName": "DATASETNAME",
+          "ParameterValue": "REGIONALINCOME"
+        },
+        {
+          "ParameterName": "METHOD",
+          "ParameterValue": "GETDATA"
+        },
+        {
+          "ParameterName": "RESULTFORMAT",
+          "ParameterValue": "JSON"
+        },
+        {
+          "ParameterName": "USERID",
+          "ParameterValue": "F414B54D-68CF-452A-BFD9-7B7BDA23AE7C"
+        },
+        {
+          "ParameterName": "TABLENAME",
+          "ParameterValue": "CA1"
+        }
+      ]
+    },
+    "Results": {
+      "Data": [
+        {
+          "CL_UNIT": "Dollars",
+          "Code": "CA1-3",
+          "DataValue": "25,745",
+          "GeoFips": "45000",
+          "GeoName": "South Carolina",
+          "TimePeriod": "2001",
+          "UNIT_MULT": "0"
+        },
+        {
+          "CL_UNIT": "Dollars",
+          "Code": "CA1-3",
+          "DataValue": "26,176",
+          "GeoFips": "45000",
+          "GeoName": "South Carolina",
+          "TimePeriod": "2002",
+          "UNIT_MULT": "0"
+        },
+        {
+          "CL_UNIT": "Dollars",
+          "Code": "CA1-3",
+          "DataValue": "26,785",
+          "GeoFips": "45000",
+          "GeoName": "South Carolina",
+          "TimePeriod": "2003",
+          "UNIT_MULT": "0"
+        },
+        {
+          "CL_UNIT": "Dollars",
+          "Code": "CA1-3",
+          "DataValue": "27,905",
+          "GeoFips": "45000",
+          "GeoName": "South Carolina",
+          "TimePeriod": "2004",
+          "UNIT_MULT": "0"
+        },
+        {
+          "CL_UNIT": "Dollars",
+          "Code": "CA1-3",
+          "DataValue": "29,153",
+          "GeoFips": "45000",
+          "GeoName": "South Carolina",
+          "TimePeriod": "2005",
+          "UNIT_MULT": "0"
+        },
+        {
+          "CL_UNIT": "Dollars",
+          "Code": "CA1-3",
+          "DataValue": "30,882",
+          "GeoFips": "45000",
+          "GeoName": "South Carolina",
+          "TimePeriod": "2006",
+          "UNIT_MULT": "0"
+        },
+        {
+          "CL_UNIT": "Dollars",
+          "Code": "CA1-3",
+          "DataValue": "32,249",
+          "GeoFips": "45000",
+          "GeoName": "South Carolina",
+          "TimePeriod": "2007",
+          "UNIT_MULT": "0"
+        },
+        {
+          "CL_UNIT": "Dollars",
+          "Code": "CA1-3",
+          "DataValue": "32,951",
+          "GeoFips": "45000",
+          "GeoName": "South Carolina",
+          "TimePeriod": "2008",
+          "UNIT_MULT": "0"
+        },
+        {
+          "CL_UNIT": "Dollars",
+          "Code": "CA1-3",
+          "DataValue": "31,724",
+          "GeoFips": "45000",
+          "GeoName": "South Carolina",
+          "TimePeriod": "2009",
+          "UNIT_MULT": "0"
+        },
+        {
+          "CL_UNIT": "Dollars",
+          "Code": "CA1-3",
+          "DataValue": "32,454",
+          "GeoFips": "45000",
+          "GeoName": "South Carolina",
+          "TimePeriod": "2010",
+          "UNIT_MULT": "0"
+        },
+        {
+          "CL_UNIT": "Dollars",
+          "Code": "CA1-3",
+          "DataValue": "34,047",
+          "GeoFips": "45000",
+          "GeoName": "South Carolina",
+          "TimePeriod": "2011",
+          "UNIT_MULT": "0"
+        },
+        {
+          "CL_UNIT": "Dollars",
+          "Code": "CA1-3",
+          "DataValue": "35,503",
+          "GeoFips": "45000",
+          "GeoName": "South Carolina",
+          "TimePeriod": "2012",
+          "UNIT_MULT": "0"
+        },
+        {
+          "CL_UNIT": "Dollars",
+          "Code": "CA1-3",
+          "DataValue": "35,665",
+          "GeoFips": "45000",
+          "GeoName": "South Carolina",
+          "TimePeriod": "2013",
+          "UNIT_MULT": "0"
+        },
+        {
+          "CL_UNIT": "Dollars",
+          "Code": "CA1-3",
+          "DataValue": "37,537",
+          "GeoFips": "45000",
+          "GeoName": "South Carolina",
+          "TimePeriod": "2014",
+          "UNIT_MULT": "0"
+        },
+        {
+          "CL_UNIT": "Dollars",
+          "Code": "CA1-3",
+          "DataValue": "39,424",
+          "GeoFips": "45000",
+          "GeoName": "South Carolina",
+          "TimePeriod": "2015",
+          "UNIT_MULT": "0"
+        },
+        {
+          "CL_UNIT": "Dollars",
+          "Code": "CA1-3",
+          "DataValue": "40,312",
+          "GeoFips": "45000",
+          "GeoName": "South Carolina",
+          "TimePeriod": "2016",
+          "UNIT_MULT": "0"
+        },
+        {
+          "CL_UNIT": "Dollars",
+          "Code": "CA1-3",
+          "DataValue": "41,633",
+          "GeoFips": "45000",
+          "GeoName": "South Carolina",
+          "TimePeriod": "2017",
+          "UNIT_MULT": "0"
+        }
+      ],
+      "Dimensions": [
+        {
+          "DataType": "string",
+          "IsValue": "0",
+          "Name": "Code"
+        },
+        {
+          "DataType": "string",
+          "IsValue": "0",
+          "Name": "GeoFips"
+        },
+        {
+          "DataType": "string",
+          "IsValue": "0",
+          "Name": "GeoName"
+        },
+        {
+          "DataType": "string",
+          "IsValue": "0",
+          "Name": "TimePeriod"
+        },
+        {
+          "DataType": "numeric",
+          "IsValue": "1",
+          "Name": "DataValue"
+        },
+        {
+          "DataType": "string",
+          "IsValue": "0",
+          "Name": "CL_UNIT"
+        },
+        {
+          "DataType": "numeric",
+          "IsValue": "0",
+          "Name": "UNIT_MULT"
+        }
+      ],
+      "NoteRef": "2",
+      "Notes": [
+        {
+          "NoteRef": "2",
+          "NoteText": "Per capita personal income was computed using Census Bureau midyear population estimates. Estimates for 2010-2017 reflect county population estimates available as of March 2018."
+        },
+        {
+          "NoteRef": "Note--",
+          "NoteText": "All dollar estimates are in thousands of current dollars (not adjusted for inflation). Statistics presented in thousands of dollars do not indicate more precision than statistics presented  in millions of dollars."
+        },
+        {
+          "NoteRef": " ",
+          "NoteText": "Last updated: November 15, 2018-- new statistics for 2017; revised statistics for 2001-2016."
+        }
+      ],
+      "PublicTable": "CA1 Per capita personal income (dollars)",
+      "Statistic": "Per capita personal income",
+      "UTCProductionTime": "2018-12-22T22:21:17.283",
+      "UnitOfMeasure": "Dollars"
+    }
+  }
+}
