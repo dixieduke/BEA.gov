@@ -1,0 +1,48 @@
+{
+  "BEAAPI": {
+    "Request": {
+      "RequestParam": [
+        {
+          "ParameterName": "USERID",
+          "ParameterValue": "F414B54D-68CF-452A-BFD9-7B7BDA23AE7C"
+        },
+        {
+          "ParameterName": "RESULTFORMAT",
+          "ParameterValue": "JSON"
+        },
+        {
+          "ParameterName": "DATASETNAME",
+          "ParameterValue": "REGIONALINCOME"
+        },
+        {
+          "ParameterName": "TABLENAME",
+          "ParameterValue": "CA1"
+        },
+        {
+          "ParameterName": "TARGETPARAMETER",
+          "ParameterValue": "LINECODE"
+        },
+        {
+          "ParameterName": "METHOD",
+          "ParameterValue": "GETPARAMETERVALUESFILTERED"
+        }
+      ]
+    },
+    "Results": {
+      "ParamValue": [
+        {
+          "Desc": "[CA1] Personal income",
+          "Key": "1"
+        },
+        {
+          "Desc": "[CA1] Population",
+          "Key": "2"
+        },
+        {
+          "Desc": "[CA1] Per capita personal income",
+          "Key": "3"
+        }
+      ]
+    }
+  }
+}

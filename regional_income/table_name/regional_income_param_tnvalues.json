@@ -1,0 +1,212 @@
+{
+  "BEAAPI": {
+    "Request": {
+      "RequestParam": [
+        {
+          "ParameterName": "USERID",
+          "ParameterValue": "F414B54D-68CF-452A-BFD9-7B7BDA23AE7C"
+        },
+        {
+          "ParameterName": "PARAMETERNAME",
+          "ParameterValue": "TABLENAME"
+        },
+        {
+          "ParameterName": "METHOD",
+          "ParameterValue": "GETPARAMETERVALUES"
+        },
+        {
+          "ParameterName": "DATASETNAME",
+          "ParameterValue": "REGIONALINCOME"
+        }
+      ]
+    },
+    "Results": {
+      "ParamValue": [
+        {
+          "Desc": "ACPSA Compensation (NAICS)",
+          "Key": "ACArtsComp"
+        },
+        {
+          "Desc": "ACPSA Employment (NAICS)",
+          "Key": "ACArtsEmp"
+        },
+        {
+          "Desc": "ACPSA Value Added (NAICS)",
+          "Key": "ACArtsVA"
+        },
+        {
+          "Desc": "Total Compensation (NAICS)",
+          "Key": "ACComp"
+        },
+        {
+          "Desc": "Arts Compensation Location Quotient (NAICS)",
+          "Key": "ACCompLQ"
+        },
+        {
+          "Desc": "Arts Compensation Ratio (NAICS)",
+          "Key": "ACCompRatio"
+        },
+        {
+          "Desc": "Total Employment (NAICS)",
+          "Key": "ACEmp"
+        },
+        {
+          "Desc": "Arts Employment Location Quotient (NAICS)",
+          "Key": "ACEmpLQ"
+        },
+        {
+          "Desc": "Arts Employment Ratio (NAICS)",
+          "Key": "ACEmpRatio"
+        },
+        {
+          "Desc": "Total Value Added (NAICS)",
+          "Key": "ACVA"
+        },
+        {
+          "Desc": "Arts Value Added Location Quotient (NAICS)",
+          "Key": "ACVALQ"
+        },
+        {
+          "Desc": "Arts Value Added Ratio (NAICS)",
+          "Key": "ACVARatio"
+        },
+        {
+          "Desc": "Personal Income Summary: Personal Income, Population, Per Capita Personal Income (Non-Industry)",
+          "Key": "CA1"
+        },
+        {
+          "Desc": "Total Full-Time and Part-Time Employment by NAICS Industry (NAICS)",
+          "Key": "CA25N"
+        },
+        {
+          "Desc": "Economic Profile (Non-Industry)",
+          "Key": "CA30"
+        },
+        {
+          "Desc": "Personal Current Transfer Receipts (Non-Industry)",
+          "Key": "CA35"
+        },
+        {
+          "Desc": "Personal Income and Employment by Major Component (Non-Industry)",
+          "Key": "CA4"
+        },
+        {
+          "Desc": "Farm Income and Expenses (Non-Industry)",
+          "Key": "CA45"
+        },
+        {
+          "Desc": "Personal Income by Major Component and Earnings by NAICS Industry (NAICS)",
+          "Key": "CA5N"
+        },
+        {
+          "Desc": "Compensation of Employees by NAICS Industry (NAICS)",
+          "Key": "CA6N"
+        },
+        {
+          "Desc": "Gross Flow of Earnings (Non-Industry)",
+          "Key": "CA91"
+        },
+        {
+          "Desc": "Implicit Price Deflators by state (Non-Industry)",
+          "Key": "IRPD1"
+        },
+        {
+          "Desc": "Implicit Price Deflators by MSA (Non-Industry)",
+          "Key": "IRPD2"
+        },
+        {
+          "Desc": "Real Personal Income by state (Non-Industry)",
+          "Key": "RPI1"
+        },
+        {
+          "Desc": "Real Personal Income by MSA (Non-Industry)",
+          "Key": "RPI2"
+        },
+        {
+          "Desc": "Regional Price Parities by state (Non-Industry)",
+          "Key": "RPP1"
+        },
+        {
+          "Desc": "Regional Price Parities by MSA (Non-Industry)",
+          "Key": "RPP2"
+        },
+        {
+          "Desc": "Personal Income Summary: Personal Income, Population, Per Capita Personal Income (Non-Industry)",
+          "Key": "SA1"
+        },
+        {
+          "Desc": "Total Full-Time and Part-Time Employment by NAICS Industry (NAICS)",
+          "Key": "SA25N"
+        },
+        {
+          "Desc": "Full-Time and Part-Time Wage and Salary Employment by NAICS Industry (NAICS)",
+          "Key": "SA27N"
+        },
+        {
+          "Desc": "Economic Profile (Non-Industry)",
+          "Key": "SA30"
+        },
+        {
+          "Desc": "Personal Current Transfer Receipts (Non-Industry)",
+          "Key": "SA35"
+        },
+        {
+          "Desc": "Personal Income and Employment by Major Component (Non-Industry)",
+          "Key": "SA4"
+        },
+        {
+          "Desc": "Property Income (Non-Industry)",
+          "Key": "SA40"
+        },
+        {
+          "Desc": "Farm Income and Expenses (Non-Industry)",
+          "Key": "SA45"
+        },
+        {
+          "Desc": "Personal Current Taxes (Non-Industry)",
+          "Key": "SA50"
+        },
+        {
+          "Desc": "Disposable Personal Income Summary: Disposable Personal Income, Population, and Per Capita Disposable Personal Income (Non-Industry)",
+          "Key": "SA51"
+        },
+        {
+          "Desc": "Personal Income by Major Component and Earnings by NAICS Industry (NAICS)",
+          "Key": "SA5N"
+        },
+        {
+          "Desc": "Compensation of Employees by NAICS Industry (NAICS)",
+          "Key": "SA6N"
+        },
+        {
+          "Desc": "Wages and Salaries by NAICS Industry (NAICS)",
+          "Key": "SA7N"
+        },
+        {
+          "Desc": "Personal Income Summary: Personal Income, Population, Per Capita Personal Income (Non-Industry)",
+          "Key": "SQ1"
+        },
+        {
+          "Desc": "Personal Current Transfer Receipts (Non-Industry)",
+          "Key": "SQ35"
+        },
+        {
+          "Desc": "Personal Income by Major Component (Non-Industry)",
+          "Key": "SQ4"
+        },
+        {
+          "Desc": "Personal Income by Major Component and Earnings by NAICS Industry (NAICS)",
+          "Key": "SQ5N"
+        },
+        {
+          "Desc": "Compensation of Employees by NAICS Industry (NAICS)",
+          "Key": "SQ6N"
+        },
+        {
+          "Desc": "Wages and Salaries by NAICS Industry (NAICS)",
+          "Key": "SQ7N"
+        }
+      ]
+    }
+  }
+}

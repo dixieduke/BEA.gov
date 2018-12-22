@@ -1,0 +1,112 @@
+{
+  "BEAAPI": {
+    "Request": {
+      "RequestParam": [
+        {
+          "ParameterName": "METHOD",
+          "ParameterValue": "GETPARAMETERVALUES"
+        },
+        {
+          "ParameterName": "DATASETNAME",
+          "ParameterValue": "REGIONALINCOME"
+        },
+        {
+          "ParameterName": "USERID",
+          "ParameterValue": "F414B54D-68CF-452A-BFD9-7B7BDA23AE7C"
+        },
+        {
+          "ParameterName": "PARAMETERNAME",
+          "ParameterValue": "YEAR"
+        }
+      ]
+    },
+    "Results": {
+      "ParamValue": [
+        {
+          "Desc": "1998",
+          "Key": "1998"
+        },
+        {
+          "Desc": "1999",
+          "Key": "1999"
+        },
+        {
+          "Desc": "2000",
+          "Key": "2000"
+        },
+        {
+          "Desc": "2001",
+          "Key": "2001"
+        },
+        {
+          "Desc": "2002",
+          "Key": "2002"
+        },
+        {
+          "Desc": "2003",
+          "Key": "2003"
+        },
+        {
+          "Desc": "2004",
+          "Key": "2004"
+        },
+        {
+          "Desc": "2005",
+          "Key": "2005"
+        },
+        {
+          "Desc": "2006",
+          "Key": "2006"
+        },
+        {
+          "Desc": "2007",
+          "Key": "2007"
+        },
+        {
+          "Desc": "2008",
+          "Key": "2008"
+        },
+        {
+          "Desc": "2009",
+          "Key": "2009"
+        },
+        {
+          "Desc": "2010",
+          "Key": "2010"
+        },
+        {
+          "Desc": "2011",
+          "Key": "2011"
+        },
+        {
+          "Desc": "2012",
+          "Key": "2012"
+        },
+        {
+          "Desc": "2013",
+          "Key": "2013"
+        },
+        {
+          "Desc": "2014",
+          "Key": "2014"
+        },
+        {
+          "Desc": "2015",
+          "Key": "2015"
+        },
+        {
+          "Desc": "2016",
+          "Key": "2016"
+        },
+        {
+          "Desc": "2017",
+          "Key": "2017"
+        },
+        {
+          "Desc": "2018",
+          "Key": "2018"
+        }
+      ]
+    }
+  }
+}

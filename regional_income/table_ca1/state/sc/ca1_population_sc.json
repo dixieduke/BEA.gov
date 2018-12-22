@@ -1,0 +1,253 @@
+{
+  "BEAAPI": {
+    "Request": {
+      "RequestParam": [
+        {
+          "ParameterName": "LINECODE",
+          "ParameterValue": "2"
+        },
+        {
+          "ParameterName": "YEAR",
+          "ParameterValue": "ALL"
+        },
+        {
+          "ParameterName": "GEOFIPS",
+          "ParameterValue": "45000"
+        },
+        {
+          "ParameterName": "RESULTFORMAT",
+          "ParameterValue": "JSON"
+        },
+        {
+          "ParameterName": "USERID",
+          "ParameterValue": "F414B54D-68CF-452A-BFD9-7B7BDA23AE7C"
+        },
+        {
+          "ParameterName": "TABLENAME",
+          "ParameterValue": "CA1"
+        },
+        {
+          "ParameterName": "METHOD",
+          "ParameterValue": "GETDATA"
+        },
+        {
+          "ParameterName": "DATASETNAME",
+          "ParameterValue": "REGIONALINCOME"
+        }
+      ]
+    },
+    "Results": {
+      "Data": [
+        {
+          "CL_UNIT": "Number of persons",
+          "Code": "CA1-2",
+          "DataValue": "4,064,995",
+          "GeoFips": "45000",
+          "GeoName": "South Carolina",
+          "TimePeriod": "2001",
+          "UNIT_MULT": "0"
+        },
+        {
+          "CL_UNIT": "Number of persons",
+          "Code": "CA1-2",
+          "DataValue": "4,107,795",
+          "GeoFips": "45000",
+          "GeoName": "South Carolina",
+          "TimePeriod": "2002",
+          "UNIT_MULT": "0"
+        },
+        {
+          "CL_UNIT": "Number of persons",
+          "Code": "CA1-2",
+          "DataValue": "4,150,297",
+          "GeoFips": "45000",
+          "GeoName": "South Carolina",
+          "TimePeriod": "2003",
+          "UNIT_MULT": "0"
+        },
+        {
+          "CL_UNIT": "Number of persons",
+          "Code": "CA1-2",
+          "DataValue": "4,210,921",
+          "GeoFips": "45000",
+          "GeoName": "South Carolina",
+          "TimePeriod": "2004",
+          "UNIT_MULT": "0"
+        },
+        {
+          "CL_UNIT": "Number of persons",
+          "Code": "CA1-2",
+          "DataValue": "4,270,150",
+          "GeoFips": "45000",
+          "GeoName": "South Carolina",
+          "TimePeriod": "2005",
+          "UNIT_MULT": "0"
+        },
+        {
+          "CL_UNIT": "Number of persons",
+          "Code": "CA1-2",
+          "DataValue": "4,357,847",
+          "GeoFips": "45000",
+          "GeoName": "South Carolina",
+          "TimePeriod": "2006",
+          "UNIT_MULT": "0"
+        },
+        {
+          "CL_UNIT": "Number of persons",
+          "Code": "CA1-2",
+          "DataValue": "4,444,110",
+          "GeoFips": "45000",
+          "GeoName": "South Carolina",
+          "TimePeriod": "2007",
+          "UNIT_MULT": "0"
+        },
+        {
+          "CL_UNIT": "Number of persons",
+          "Code": "CA1-2",
+          "DataValue": "4,528,996",
+          "GeoFips": "45000",
+          "GeoName": "South Carolina",
+          "TimePeriod": "2008",
+          "UNIT_MULT": "0"
+        },
+        {
+          "CL_UNIT": "Number of persons",
+          "Code": "CA1-2",
+          "DataValue": "4,589,872",
+          "GeoFips": "45000",
+          "GeoName": "South Carolina",
+          "TimePeriod": "2009",
+          "UNIT_MULT": "0"
+        },
+        {
+          "CL_UNIT": "Number of persons",
+          "Code": "CA1-2",
+          "DataValue": "4,635,834",
+          "GeoFips": "45000",
+          "GeoName": "South Carolina",
+          "TimePeriod": "2010",
+          "UNIT_MULT": "0"
+        },
+        {
+          "CL_UNIT": "Number of persons",
+          "Code": "CA1-2",
+          "DataValue": "4,672,744",
+          "GeoFips": "45000",
+          "GeoName": "South Carolina",
+          "TimePeriod": "2011",
+          "UNIT_MULT": "0"
+        },
+        {
+          "CL_UNIT": "Number of persons",
+          "Code": "CA1-2",
+          "DataValue": "4,719,009",
+          "GeoFips": "45000",
+          "GeoName": "South Carolina",
+          "TimePeriod": "2012",
+          "UNIT_MULT": "0"
+        },
+        {
+          "CL_UNIT": "Number of persons",
+          "Code": "CA1-2",
+          "DataValue": "4,765,862",
+          "GeoFips": "45000",
+          "GeoName": "South Carolina",
+          "TimePeriod": "2013",
+          "UNIT_MULT": "0"
+        },
+        {
+          "CL_UNIT": "Number of persons",
+          "Code": "CA1-2",
+          "DataValue": "4,824,758",
+          "GeoFips": "45000",
+          "GeoName": "South Carolina",
+          "TimePeriod": "2014",
+          "UNIT_MULT": "0"
+        },
+        {
+          "CL_UNIT": "Number of persons",
+          "Code": "CA1-2",
+          "DataValue": "4,892,423",
+          "GeoFips": "45000",
+          "GeoName": "South Carolina",
+          "TimePeriod": "2015",
+          "UNIT_MULT": "0"
+        },
+        {
+          "CL_UNIT": "Number of persons",
+          "Code": "CA1-2",
+          "DataValue": "4,959,822",
+          "GeoFips": "45000",
+          "GeoName": "South Carolina",
+          "TimePeriod": "2016",
+          "UNIT_MULT": "0"
+        },
+        {
+          "CL_UNIT": "Number of persons",
+          "Code": "CA1-2",
+          "DataValue": "5,024,369",
+          "GeoFips": "45000",
+          "GeoName": "South Carolina",
+          "TimePeriod": "2017",
+          "UNIT_MULT": "0"
+        }
+      ],
+      "Dimensions": [
+        {
+          "DataType": "string",
+          "IsValue": "0",
+          "Name": "Code"
+        },
+        {
+          "DataType": "string",
+          "IsValue": "0",
+          "Name": "GeoFips"
+        },
+        {
+          "DataType": "string",
+          "IsValue": "0",
+          "Name": "GeoName"
+        },
+        {
+          "DataType": "string",
+          "IsValue": "0",
+          "Name": "TimePeriod"
+        },
+        {
+          "DataType": "numeric",
+          "IsValue": "1",
+          "Name": "DataValue"
+        },
+        {
+          "DataType": "string",
+          "IsValue": "0",
+          "Name": "CL_UNIT"
+        },
+        {
+          "DataType": "numeric",
+          "IsValue": "0",
+          "Name": "UNIT_MULT"
+        }
+      ],
+      "NoteRef": "1",
+      "Notes": [
+        {
+          "NoteRef": "1",
+          "NoteText": "Census Bureau midyear population estimates. Estimates for 2010-2017 reflect county population estimates available as of March 2018."
+        },
+        {
+          "NoteRef": "Note--",
+          "NoteText": "All dollar estimates are in thousands of current dollars (not adjusted for inflation). Statistics presented in thousands of dollars do not indicate more precision than statistics presented  in millions of dollars."
+        },
+        {
+          "NoteRef": " ",
+          "NoteText": "Last updated: November 15, 2018-- new statistics for 2017; revised statistics for 2001-2016."
+        }
+      ],
+      "PublicTable": "CA1 Population (persons)",
+      "Statistic": "Population",
+      "UTCProductionTime": "2018-12-22T21:09:01.663",
+      "UnitOfMeasure": "Number of persons"
+    }
+  }
+}
